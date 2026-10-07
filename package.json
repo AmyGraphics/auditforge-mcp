@@ -1,0 +1,9 @@
+{
+  "name": "auditforge-mcp",
+  "version": "1.0.0",
+  "description": "Smart Contract Security, Honeypot & Gas Optimizer MCP for Cursor, Claude Code, and Windsurf",
+  "main": "index.js",
+  "type": "module",
+  "author": "tofan96you",
+  "license": "MIT"
+}

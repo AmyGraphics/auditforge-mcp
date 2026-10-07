@@ -1,0 +1,20 @@
+name: auditforge-mcp
+displayName: AuditForge - Smart Contract Security & Gas Optimizer MCP
+description: Universal Web3 security auditor for Cursor, Claude & Windsurf. Static vulnerability scanner (Reentrancy, tx.origin, Access Control), Honeypot detector, Gas optimizer, and OpenZeppelin v5 ERC20 generator.
+category: developer-tools
+homepage: https://github.com/AmyGraphics/auditforge-mcp
+repository: https://github.com/AmyGraphics/auditforge-mcp
+icon: https://raw.githubusercontent.com/AmyGraphics/auditforge-mcp/main/icon.png
+keywords:
+  - smart-contract-audit
+  - solidity
+  - web3
+  - security
+  - honeypot-detector
+  - gas-optimizer
+  - erc20-generator
+  - cursor
+  - claude
+startCommand:
+  type: http
+  url: https://auditforge-api.agentweb-hub.workers.dev/mcp
