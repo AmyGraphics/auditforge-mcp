@@ -12,6 +12,12 @@ Universal Smart Contract Security Auditor, Honeypot Analyzer & Gas Optimization 
 `https://auditforge-api.agentweb-hub.workers.dev/mcp`
 
 
+## 🔴 NEW in v1.1 — Live Tool: `scan_solidity_vulnerabilities`
+
+Statically scans pasted Solidity source with REAL pattern analysis: tx.origin, delegatecall, reentrancy surface, unchecked calls and access-control gaps - with line-level findings from YOUR code.
+
+No API key needed — works out of the box.
+
 ## 💰 Pricing
 
 **Start free — 10 requests/day, no signup, no card.** Upgrade only if it earns a place in your workflow.
